@@ -1,6 +1,5 @@
 package com.lzm.slidingmenu.lib;
 
-import com.jeremyfeinstein.slidingmenu.lib.R;
 import com.lzm.slidingmenu.lib.SlidingMenu.CanvasTransformer;
 
 import android.content.Context;

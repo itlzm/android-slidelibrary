@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.jeremyfeinstein.slidingmenu.lib;
+package com.lzm.slidingmenu.lib;
 
 public final class R {
     public static final class attr {
@@ -139,20 +139,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SlidingMenu_behindOffset com.jeremyfeinstein.slidingmenu.lib:behindOffset}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_behindScrollScale com.jeremyfeinstein.slidingmenu.lib:behindScrollScale}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_behindWidth com.jeremyfeinstein.slidingmenu.lib:behindWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_fadeDegree com.jeremyfeinstein.slidingmenu.lib:fadeDegree}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_fadeEnabled com.jeremyfeinstein.slidingmenu.lib:fadeEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_mode com.jeremyfeinstein.slidingmenu.lib:mode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_selectorDrawable com.jeremyfeinstein.slidingmenu.lib:selectorDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_selectorEnabled com.jeremyfeinstein.slidingmenu.lib:selectorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_shadowDrawable com.jeremyfeinstein.slidingmenu.lib:shadowDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_shadowWidth com.jeremyfeinstein.slidingmenu.lib:shadowWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_touchModeAbove com.jeremyfeinstein.slidingmenu.lib:touchModeAbove}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_touchModeBehind com.jeremyfeinstein.slidingmenu.lib:touchModeBehind}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_viewAbove com.jeremyfeinstein.slidingmenu.lib:viewAbove}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_viewBehind com.jeremyfeinstein.slidingmenu.lib:viewBehind}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_behindOffset com.lzm.slidingmenu.lib:behindOffset}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_behindScrollScale com.lzm.slidingmenu.lib:behindScrollScale}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_behindWidth com.lzm.slidingmenu.lib:behindWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_fadeDegree com.lzm.slidingmenu.lib:fadeDegree}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_fadeEnabled com.lzm.slidingmenu.lib:fadeEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_mode com.lzm.slidingmenu.lib:mode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_selectorDrawable com.lzm.slidingmenu.lib:selectorDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_selectorEnabled com.lzm.slidingmenu.lib:selectorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_shadowDrawable com.lzm.slidingmenu.lib:shadowDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_shadowWidth com.lzm.slidingmenu.lib:shadowWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_touchModeAbove com.lzm.slidingmenu.lib:touchModeAbove}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_touchModeBehind com.lzm.slidingmenu.lib:touchModeBehind}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_viewAbove com.lzm.slidingmenu.lib:viewAbove}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_viewBehind com.lzm.slidingmenu.lib:viewBehind}</code></td><td></td></tr>
            </table>
            @see #SlidingMenu_behindOffset
            @see #SlidingMenu_behindScrollScale
@@ -176,7 +176,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000c, 0x7f01000d
         };
         /**
-          <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.lib.R.attr#behindOffset}
+          <p>This symbol is the offset where the {@link com.lzm.slidingmenu.lib.R.attr#behindOffset}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
@@ -188,11 +188,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.jeremyfeinstein.slidingmenu.lib:behindOffset
+          @attr name com.lzm.slidingmenu.lib:behindOffset
         */
         public static int SlidingMenu_behindOffset = 3;
         /**
-          <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.lib.R.attr#behindScrollScale}
+          <p>This symbol is the offset where the {@link com.lzm.slidingmenu.lib.R.attr#behindScrollScale}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
@@ -202,11 +202,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.jeremyfeinstein.slidingmenu.lib:behindScrollScale
+          @attr name com.lzm.slidingmenu.lib:behindScrollScale
         */
         public static int SlidingMenu_behindScrollScale = 5;
         /**
-          <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.lib.R.attr#behindWidth}
+          <p>This symbol is the offset where the {@link com.lzm.slidingmenu.lib.R.attr#behindWidth}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
@@ -218,11 +218,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.jeremyfeinstein.slidingmenu.lib:behindWidth
+          @attr name com.lzm.slidingmenu.lib:behindWidth
         */
         public static int SlidingMenu_behindWidth = 4;
         /**
-          <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.lib.R.attr#fadeDegree}
+          <p>This symbol is the offset where the {@link com.lzm.slidingmenu.lib.R.attr#fadeDegree}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
@@ -232,11 +232,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.jeremyfeinstein.slidingmenu.lib:fadeDegree
+          @attr name com.lzm.slidingmenu.lib:fadeDegree
         */
         public static int SlidingMenu_fadeDegree = 11;
         /**
-          <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.lib.R.attr#fadeEnabled}
+          <p>This symbol is the offset where the {@link com.lzm.slidingmenu.lib.R.attr#fadeEnabled}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
@@ -246,11 +246,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.jeremyfeinstein.slidingmenu.lib:fadeEnabled
+          @attr name com.lzm.slidingmenu.lib:fadeEnabled
         */
         public static int SlidingMenu_fadeEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.lib.R.attr#mode}
+          <p>This symbol is the offset where the {@link com.lzm.slidingmenu.lib.R.attr#mode}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
@@ -263,21 +263,21 @@ containing a value of this type.
 <tr><td><code>left</code></td><td>0</td><td></td></tr>
 <tr><td><code>right</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.jeremyfeinstein.slidingmenu.lib:mode
+          @attr name com.lzm.slidingmenu.lib:mode
         */
         public static int SlidingMenu_mode = 0;
         /**
-          <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.lib.R.attr#selectorDrawable}
+          <p>This symbol is the offset where the {@link com.lzm.slidingmenu.lib.R.attr#selectorDrawable}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.jeremyfeinstein.slidingmenu.lib:selectorDrawable
+          @attr name com.lzm.slidingmenu.lib:selectorDrawable
         */
         public static int SlidingMenu_selectorDrawable = 13;
         /**
-          <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.lib.R.attr#selectorEnabled}
+          <p>This symbol is the offset where the {@link com.lzm.slidingmenu.lib.R.attr#selectorEnabled}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
@@ -287,21 +287,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.jeremyfeinstein.slidingmenu.lib:selectorEnabled
+          @attr name com.lzm.slidingmenu.lib:selectorEnabled
         */
         public static int SlidingMenu_selectorEnabled = 12;
         /**
-          <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.lib.R.attr#shadowDrawable}
+          <p>This symbol is the offset where the {@link com.lzm.slidingmenu.lib.R.attr#shadowDrawable}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.jeremyfeinstein.slidingmenu.lib:shadowDrawable
+          @attr name com.lzm.slidingmenu.lib:shadowDrawable
         */
         public static int SlidingMenu_shadowDrawable = 8;
         /**
-          <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.lib.R.attr#shadowWidth}
+          <p>This symbol is the offset where the {@link com.lzm.slidingmenu.lib.R.attr#shadowWidth}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
@@ -313,11 +313,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.jeremyfeinstein.slidingmenu.lib:shadowWidth
+          @attr name com.lzm.slidingmenu.lib:shadowWidth
         */
         public static int SlidingMenu_shadowWidth = 9;
         /**
-          <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.lib.R.attr#touchModeAbove}
+          <p>This symbol is the offset where the {@link com.lzm.slidingmenu.lib.R.attr#touchModeAbove}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
@@ -330,11 +330,11 @@ containing a value of this type.
 <tr><td><code>margin</code></td><td>0</td><td></td></tr>
 <tr><td><code>fullscreen</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.jeremyfeinstein.slidingmenu.lib:touchModeAbove
+          @attr name com.lzm.slidingmenu.lib:touchModeAbove
         */
         public static int SlidingMenu_touchModeAbove = 6;
         /**
-          <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.lib.R.attr#touchModeBehind}
+          <p>This symbol is the offset where the {@link com.lzm.slidingmenu.lib.R.attr#touchModeBehind}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
@@ -347,27 +347,27 @@ containing a value of this type.
 <tr><td><code>margin</code></td><td>0</td><td></td></tr>
 <tr><td><code>fullscreen</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.jeremyfeinstein.slidingmenu.lib:touchModeBehind
+          @attr name com.lzm.slidingmenu.lib:touchModeBehind
         */
         public static int SlidingMenu_touchModeBehind = 7;
         /**
-          <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.lib.R.attr#viewAbove}
+          <p>This symbol is the offset where the {@link com.lzm.slidingmenu.lib.R.attr#viewAbove}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.jeremyfeinstein.slidingmenu.lib:viewAbove
+          @attr name com.lzm.slidingmenu.lib:viewAbove
         */
         public static int SlidingMenu_viewAbove = 1;
         /**
-          <p>This symbol is the offset where the {@link com.jeremyfeinstein.slidingmenu.lib.R.attr#viewBehind}
+          <p>This symbol is the offset where the {@link com.lzm.slidingmenu.lib.R.attr#viewBehind}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.jeremyfeinstein.slidingmenu.lib:viewBehind
+          @attr name com.lzm.slidingmenu.lib:viewBehind
         */
         public static int SlidingMenu_viewBehind = 2;
     };

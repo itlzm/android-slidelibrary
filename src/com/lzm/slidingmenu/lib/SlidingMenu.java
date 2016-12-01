@@ -2,7 +2,6 @@ package com.lzm.slidingmenu.lib;
 
 import java.lang.reflect.Method;
 
-import com.jeremyfeinstein.slidingmenu.lib.R;
 import com.lzm.slidingmenu.lib.CustomViewAbove.OnPageChangeListener;
 
 import android.annotation.SuppressLint;
